@@ -1,5 +1,7 @@
 # ANALYSIS OF CS GO PROFESSIONAL MATCHES
 
+Analysis performed with the purpose of learning and practicing the use of Python for data manipulation and visualization, including descriptive analysis of the base and application of Pearson's chi-squared test for statistical inference.
+
 Data source:
 
 https://www.kaggle.com/mateusdmachado/csgo-professional-matches/code
