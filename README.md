@@ -6,7 +6,7 @@ https://www.kaggle.com/mateusdmachado/csgo-professional-matches/code
 
 About the game:
 
-Counter-strike is a FPS (First-Person Shooter) game in which two teams of 5 players face each other in a matchup. The game retains the same gameplay concepts since its first version, which include a Terrorist side (TR) that is tasked to plant a bomb and have it detonate, and a Counter-Terrorist side (CT) that is tasked to defuse the bomb or prevent it from being planted. Both teams can also win a round by eliminating all players on the opposing team before the bomb is planted.
+Counter-Strike is a FPS (First-Person Shooter) game in which two teams of 5 players face each other in a matchup. The game retains the same gameplay concepts since its first version, which include a Terrorist side (TR) that is tasked to plant a bomb and have it detonate, and a Counter-Terrorist side (CT) that is tasked to defuse the bomb or prevent it from being planted. Both teams can also win a round by eliminating all players on the opposing team before the bomb is planted.
 
 A standard game of Counter-Strike is a best of 30 rounds, the winning team being the first to win 16 rounds. The 30 rounds are played in two halves of 15 on each side of the map, with a round time limit of 1 minute 55 seconds, plus 40 seconds after the bomb is planted.
 
